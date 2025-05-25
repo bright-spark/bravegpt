@@ -1,0 +1,16 @@
+__pycache__
+.env
+venv
+model.safetensors
+chatgpt_config.json
+requirements.txt
+simple_bravegpt.py
+launch_chatgpt.py
+enhanced_conversational_bravegpt.py
+config_setup.py
+README.md
+LICENSE
+USAGE_GUIDE.md
+.vscode/settings.json
+bravegpt_cli.py
+diagnostics.py
